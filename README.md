@@ -21,8 +21,8 @@ Understand what unsupervised learning is, when to apply clustering, and perform 
 
 | Topic | Skills |
 | ------ | ------ |
-| [Slides](./01-slides/) | - Conceptual overview of boosting |
-| [Clustering with K-Means](./02-kmeans/) | - Walkthrough of K-Means in `scikit-learn` |
+| [Slides](https://github.com/ga-curriculum/ml-clustering-kmeans/blob/main/01-slides/Intro-Clustering-with-K-Means.pdf){:target="_blank"} | - Conceptual overview of boosting |
+| [Clustering with K-Means](https://github.com/ga-curriculum/ml-clustering-kmeans/tree/main/02-kmeans){:target="_blank"} | - Walkthrough of K-Means in `scikit-learn` |
 
 
 ## Prerequisites
